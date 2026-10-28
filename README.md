@@ -17,8 +17,8 @@ Add your live demo link here.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/repository-name.git
-cd repository-name
+git clone https://github.com/1nonlykaizo/EXtronXD01.git
+cd EXtronXD01
 ```
 
 Follow the project setup instructions and start customizing your portfolio.
